@@ -1,0 +1,3 @@
+kyro=com.zzs.serialize.kyro.KryoSerializer
+protostuff=com.zzs.serialize.protostuff.ProtostuffSerializer
+hessian=com.zzs.serialize.hessian.HessianSerializer
