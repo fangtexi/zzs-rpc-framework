@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>rpc-common</module>
+        <module>rpc-framework</module>
     </modules>
 
     <parent>
@@ -52,7 +53,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.8</version>
+            <version>1.18.14</version>
             <scope>provided</scope>
         </dependency>
         <!-- guava -->

@@ -6,13 +6,14 @@
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/rpc-server" />
+    <file type="web" url="file://$PROJECT_DIR$/rpc-framework" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/rpc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/rpc-framework/pom.xml" />
       </list>
     </option>
   </component>
