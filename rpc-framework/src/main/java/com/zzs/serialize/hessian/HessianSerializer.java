@@ -26,7 +26,6 @@ public class HessianSerializer implements Serializer {
         } catch (Exception e) {
             throw new SerializeException("Serialization failed");
         }
-
     }
 
     @Override
